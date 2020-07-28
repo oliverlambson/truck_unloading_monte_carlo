@@ -4,4 +4,4 @@ Evaluation of a truck unloading schedule using the Monte Carlo simulation method
 
 Includes accompanying write-up.
 
-*This uses toy input distributions. Completed as part of the University of Cambridge MPhil ISMM data modelling module.*
+*\*This uses toy input distributions. Completed as part of the University of Cambridge MPhil ISMM data modelling module.*
